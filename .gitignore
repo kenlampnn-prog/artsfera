@@ -1,0 +1,6 @@
+preview_*.png
+live_*.png
+shoot.py
+__pycache__/
+*.pyc
+.DS_Store
